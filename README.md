@@ -1,0 +1,1 @@
+# Arquitectura-HA-DR-en-Google-Cloud-Platform-GCP-
