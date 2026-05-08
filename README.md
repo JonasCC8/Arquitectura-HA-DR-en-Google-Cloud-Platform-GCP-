@@ -19,7 +19,7 @@ Implementación de una arquitectura escalable, segura y altamente disponible par
 ## 🏗️ Arquitectura de Referencia
 
 <p align="center">
-  <img src="gcp-ha-dr-architecture.png" alt="GCP Architecture" width="1200"/>
+  <img src="gcp-ha-dr-architectureo.png" alt="GCP Architecture" width="1200"/>
 </p>
 
 ---
